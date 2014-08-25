@@ -1,0 +1,6 @@
+.git
+.DS_STORE
+.gitignore
+node_modules/
+examples/
+test/
